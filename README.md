@@ -1,2 +1,2 @@
-# extra-od
-A repo to achieve pair extraordinaire
+# extra-ord
+A repo to achieve paire extraordinaire
